@@ -12,9 +12,8 @@ include 'header.php'
               <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                   <h1 class="hs_slider_title animated bounceInDown">Meet Our Doctor’s Team</h1>
-                  <p class="lead animated pulse">Suspendisse eu sem tortor Etiam rhoncus viverra mi ac tempor turpis
-                    rutrum in.<br> Vivamus porttitor rhoncus tellus, id ultricies eros gravida ut.</p>
-                  <a href="" class="btn btn-default animated fadeInRightBig">Know More</a>
+                  
+                  <a href="profile.php" class="btn btn-default animated fadeInRightBig">Know More</a>
                 </div>
               </div>
             </div>
@@ -29,9 +28,8 @@ include 'header.php'
               <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                   <h1 class="hs_slider_title animated bounceInDown">Book your Appointment</h1>
-                  <p class="lead animated pulse">Suspendisse eu sem tortor Etiam rhoncus viverra mi ac tempor turpis
-                    rutrum in.<br> Vivamus porttitor rhoncus tellus, id ultricies eros gravida ut.</p>
-                  <a href="#hs_appointment_form_link" class="btn btn-default animated fadeInRightBig">Book Now</a>
+                 
+                  <a href="contact.php" class="btn btn-default animated fadeInRightBig">Book Now</a>
                 </div>
               </div>
             </div>

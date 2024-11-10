@@ -12,7 +12,7 @@ Purchase: http://themeforest.net/user/kamleshyadav
 
 <head>
   <!-- page title-->
-  <title>Health Care HTML Template</title>
+  <title>Bengal Cancer Centre</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="keywords" content="Health Care, health" />
   <meta name="description" content="Health Care HTML Template" />
@@ -94,13 +94,13 @@ Purchase: http://themeforest.net/user/kamleshyadav
       <div class="row">
         <div class="col-lg-6 col-md-12 col-sm-12">
           <div class="hlc_topheader_textleft">
-            <p><i class="fa fa-calendar-plus-o" aria-hidden="true"></i> Opening Hours: 6.00 am - 11.00 pm (Mon - Sat)
+            <p><b>IN COLLABORATION WITH HCC</b>
             </p>
           </div>
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12">
           <div class="hlc_topheader_textright">
-            <p><i class="fa fa-volume-control-phone" aria-hidden="true"></i> Question? Call Us at +(0321) 752 8659</p>
+            <p><i class="fa fa-volume-control-phone" aria-hidden="true"></i> For Appointment? Mob: 8902202926,9597239955</p>
           </div>
         </div>
       </div>
@@ -110,7 +110,7 @@ Purchase: http://themeforest.net/user/kamleshyadav
     <div class="container">
       <div class="row">
         <div class="col-lg-2 col-md-12 col-sm-12">
-          <div id="hs_logo"> <a href="index.php"> <img src="images/logo.svg" alt=""> </a> </div>
+          <div id="hs_logo"> <a href="index.php"> <img src="images/logo.svg" alt="" > </a> </div>
           <!-- #logo -->
         </div>
         <div class="col-lg-8 col-md-9 col-sm-12">
