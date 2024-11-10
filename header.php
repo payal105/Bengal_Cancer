@@ -1,11 +1,4 @@
 <!DOCTYPE html>
-<!-- 
-Template Name: Health Care HTML Template
-Version: 1.1.0
-Author: Kamleshyadav
-Website: http://himanshusofttech.com/
-Purchase: http://themeforest.net/user/kamleshyadav
--->
 <html lang="en">
 <!--<![endif]-->
 <!-- BEGIN HEAD -->
@@ -47,13 +40,14 @@ Purchase: http://themeforest.net/user/kamleshyadav
 <body>
   <!--Pre loader start-->
   <div id="preloader">
-	<div class="loading">
-		<svg version="1.2" height="300" width="600" xmlns="http://www.w3.org/2000/svg"
-			viewport="0 0 60 60" xmlns:xlink="http://www.w3.org/1999/xlink">
-			<path id="pulsar" stroke="rgba(0,155,155,1)" fill="none" stroke-width="2"stroke-linejoin="round" d="M0,90L250,90Q257,60 262,87T267,95 270,88 273,92t6,35 7,-60T290,127 297,107s2,-11 10,-10 1,1 8,-10T319,95c6,4 8,-6 10,-17s2,10 9,11h210" />
-		</svg>
-	</div>
-</div>
+    <div class="loading">
+      <svg version="1.2" height="300" width="600" xmlns="http://www.w3.org/2000/svg" viewport="0 0 60 60"
+        xmlns:xlink="http://www.w3.org/1999/xlink">
+        <path id="pulsar" stroke="rgba(0,155,155,1)" fill="none" stroke-width="2" stroke-linejoin="round"
+          d="M0,90L250,90Q257,60 262,87T267,95 270,88 273,92t6,35 7,-60T290,127 297,107s2,-11 10,-10 1,1 8,-10T319,95c6,4 8,-6 10,-17s2,10 9,11h210" />
+      </svg>
+    </div>
+  </div>
   <!-- color picker start -->
   <!-- <div id="style-switcher" class="hs_color_set">
     <div>
@@ -100,7 +94,8 @@ Purchase: http://themeforest.net/user/kamleshyadav
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12">
           <div class="hlc_topheader_textright">
-            <p><i class="fa fa-volume-control-phone" aria-hidden="true"></i> For Appointment? Mob: 8902202926,9597239955</p>
+            <p><i class="fa fa-volume-control-phone" aria-hidden="true"></i> For Appointment? Mob: 8902202926,
+              9597239955</p>
           </div>
         </div>
       </div>
@@ -110,12 +105,14 @@ Purchase: http://themeforest.net/user/kamleshyadav
     <div class="container">
       <div class="row">
         <div class="col-lg-2 col-md-12 col-sm-12">
-          <div id="hs_logo"> <a href="index.php"> <img src="images/logo.svg" alt="" > </a> </div>
+          <div id="hs_logo"> <a href="index.php"> <img style="height: 100px; width: auto" src="images/bcclogo.webp"
+                alt=""> </a> </div>
           <!-- #logo -->
         </div>
-        <div class="col-lg-8 col-md-9 col-sm-12">
+        <div class="col-lg-10 col-md-12 col-sm-12" style="display: flex; align-items: center;">
           <button type="button" class="hs_nav_toggle navbar-toggle" data-bs-toggle="collapse"
-            data-bs-target="#bs-example-navbar-collapse-1">Menu<i class="fa fa-bars"></i> <i class="fa fa-times" aria-hidden="true"></i></button>
+            data-bs-target="#bs-example-navbar-collapse-1">Menu<i class="fa fa-bars"></i> <i class="fa fa-times"
+              aria-hidden="true"></i></button>
           <nav>
             <ul class="hs_menu collapse navbar-collapse" id="bs-example-navbar-collapse-1">
               <li><a class="active" href="index.php">Home</a>
@@ -142,6 +139,7 @@ Purchase: http://themeforest.net/user/kamleshyadav
                   <li><a href="services.php">Pregnancy Care</a></li>
                 </ul>
               </li>
+
               <!-- <li><a>pages</a>
                 <ul>
                   <li><a>Blog</a>
@@ -176,7 +174,7 @@ Purchase: http://themeforest.net/user/kamleshyadav
             </ul>
           </nav>
         </div>
-        <div class="col-lg-2 col-md-3 col-sm-12">
+        <div class="col-lg-2 col-md-3 col-sm-12" style="display:none">
           <div class="hs_social">
             <ul>
               <li><a href=""><i class="fa fa-facebook"></i></a></li>
