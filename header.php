@@ -130,14 +130,14 @@
                 </ul> -->
               </li>
               <li><a href="about.php">about</a></li>
-              <li><a>branches</a>
-                <ul>
+              <li><a href="services.php">specialty services</a>
+                <!-- <ul>
                   <li><a href="services.php">Pediatric Clinic</a></li>
                   <li><a href="services.php">Dental Clinic</a></li>
                   <li><a href="services.php">General Surgery</a></li>
                   <li><a href="services.php">Physiotherapy</a></li>
                   <li><a href="services.php">Pregnancy Care</a></li>
-                </ul>
+                </ul> -->
               </li>
 
               <!-- <li><a>pages</a>
