@@ -1,5 +1,6 @@
 <?php
 include 'header.php';
+include 'svg.php';
 ?>
 <div class="hs_page_title">
     <div class="container">

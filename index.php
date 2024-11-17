@@ -1,8 +1,10 @@
 <?php
-include 'header.php'
+include 'header.php';
+include 'svg.php';
     ?>
+ 
 <!--slider start-->
-<div class="health_slider" style="margin-bottom: 200px;">
+<div class="health_slider" style="margin-bottom: 50px;">
     <div class="owl-carousel owl-theme">
         <div class="item">
             <div class="hlc_slider_details">
@@ -11,9 +13,9 @@ include 'header.php'
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-12 col-md-12 col-sm-12">
-                                <h1 class="hs_slider_title animated bounceInDown">Meet Our Doctor’s Team</h1>
-
-                                <a href="profile.php" class="btn btn-default animated fadeInRightBig">Know More</a>
+                                <h1 class="hs_slider_title animated bounceInDown">Bengal Cancer Centre</h1>
+                                <p>West Bengal</p>
+                                <a href="about.php" class="btn btn-default animated fadeInRightBig">Know More</a>
                             </div>
                         </div>
                     </div>
@@ -40,8 +42,33 @@ include 'header.php'
 </div>
 <!--slider end-->
 <div class="container">
+
+<div class="row">
+      <div class="col-lg-12 col-md-12 col-sm-12">
+        <h4 class="hs_heading">Establishment</h4>
+        <div class="row hs_how_we_are">
+          <div class="col-lg-12 col-md-12 col-sm-12">
+            <div class="row">
+              <div class="col-lg-7 col-md-12 col-sm-12 p-0">
+                <img src="images/about/about1.jpg" alt="" />
+              </div>
+              <div class="col-lg-5 col-md-12 col-sm-12 p-0">
+                <div class="hs_how_we_are_text">
+                  <h4>When & How we started ? </h4>
+                  <p>Lorem ipsum dolor sit amet, consectetur ag elit. Proin ipsum augue, rhoncus ac arcu ut, auclum est.
+                    AEtiam ligula orci, condim at turpis sed.Ppulvinar, poserat vitae, ultrices quis semper nisi
+                    porttitor. Aenean vel libero at nulla pulvinar placerat mauris Phasellus..</p>
+                  <!-- <a href="" class="btn btn-default">Read More</a> -->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <h4 style="margin-top: 50px;text-align: center;" class="hs_heading">Robotics</h4>
     <!--service start-->
-    <div class="row">
+    <div class="row" style="margin-top:150px;">
         <div class="col-lg-4 col-md-4 col-sm-12">
             <div class="hs_service">
                 <div class="row">
@@ -271,3 +298,4 @@ include 'header.php'
     }
 </style>
 <?php include('footer.php'); ?>
+
