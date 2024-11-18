@@ -83,7 +83,7 @@
   </div> -->
   <!-- color picker end -->
   <!--header start-->
-  <div class="hlc_topheader">
+  <!-- <div class="hlc_topheader">
     <div class="container">
       <div class="row">
         <div class="col-lg-6 col-md-12 col-sm-12">
@@ -100,7 +100,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
   <header id="hs_header">
     <div class="container">
       <div class="row">
@@ -109,7 +109,7 @@
                 alt=""> </a> </div>
           <!-- #logo -->
         </div>
-        <div class="col-lg-10 col-md-12 col-sm-12" style="display: flex; align-items: center;">
+        <div class="headernavmobile col-lg-7 col-md-12 col-sm-12">
           <button type="button" class="hs_nav_toggle navbar-toggle" data-bs-toggle="collapse"
             data-bs-target="#bs-example-navbar-collapse-1">Menu<i class="fa fa-bars"></i> <i class="fa fa-times"
               aria-hidden="true"></i></button>
@@ -174,8 +174,16 @@
             </ul>
           </nav>
         </div>
-        <div class="col-lg-2 col-md-3 col-sm-12" style="display:none">
-          <div class="hs_social">
+        <div class="headernavcontact col-lg-3 col-md-12 col-sm-12">
+
+          <a href="tel:8902202926">
+            <button type="button" class="btn success-btn">8902202926</button>
+          </a>
+          <a href="tel:9597239955">
+            <button type="button" class="btn success-btn">9597239955</button>
+          </a>
+
+          <!-- <div class="hs_social">
             <ul>
               <li><a href=""><i class="fa fa-facebook"></i></a></li>
               <li><a href=""><i class="fa fa-twitter"></i></a></li>
@@ -190,7 +198,7 @@
                 <span class="glyphicon glyphicon-search form-control-feedback"></span>
               </div>
             </form>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
