@@ -122,27 +122,37 @@ include 'svg.php'; ?>
       </div>
     </div>
     <div class="col-lg-4 col-md-12 col-sm-12">
-      <h4 class="hs_heading">Contact</h4>
+      <h4 class="hs_heading">Branches</h4>
       <div class="hs_contact">
         <ul>
+          <li> <i class="fa fa-map-marker"></i>
+            <p style="padding-left: 70px;">Padunbosan Bus stand, Purba Medinipur Tamluk, West Bengal, India</p>
+          </li>
           <li> <i class="fa fa-map-marker"></i>
             <p style="padding-left: 70px;">1st Floor, Prathika Appartment, Flat No. 1, TN Mukherjee Rd. South Subhas
               Pally, Dankuni, West Bengal - 712311</p>
           </li>
+          
+        </ul>
+      </div>
+      <h4 class="hs_heading">Contact</h4>
+      <div class="hs_contact">
+        <ul>
+        <li> <i class="fa fa-envelope"></i>
+              <a href="mailto:info@bengalcancercentre.in"><p>info@bengalcancercentre.in</p></a>
+              <!-- <p><a href="Mailto:info@healthcare.com">info@healthcare.com</a></p> -->
+            </li>
           <li> <i class="fa fa-phone"></i>
 
-            <a href="tel:+918902202926">
-              <p>+918902202926</p>
+            <a href="tel:+918100078791">
+              <p>+918100078791</p>
             </a>
-            <a href="tel:+919597239955">
+            <!-- <a href="tel:+919597239955">
               <p>+919597239955</p>
-            </a>
+            </a> -->
 
           </li>
-          <!-- <li> <i class="fa fa-envelope"></i>
-              <p><a href="Mailto:info@healthcare.com">info@healthcare.com</a></p>
-              <p><a href="Mailto:info@healthcare.com">info@healthcare.com</a></p>
-            </li> -->
+          
         </ul>
       </div>
       <!-- <div class="hs_contact_social">
@@ -199,8 +209,21 @@ include 'svg.php'; ?>
     </div> -->
   <div class="clearfix"></div>
 </div>
-<iframe
+
+<div class="container">
+
+<div class="row pb-3">
+  <div class="col-6">
+<iframe 
   src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d230.04761029103057!2d88.28837932313635!3d22.699910908474532!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f8832a95bedb7b%3A0xc9d9814cbbab2e86!2sBengal%20Cancer%20Center!5e0!3m2!1sen!2sin!4v1731236318695!5m2!1sen!2sin"
   allowfullscreen="" width="100%" height="500px"></iframe>
+  </div>
+  <div class="col-6">
+  <iframe  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3691.5757004548586!2d87.90995888618366!3d22.29405699077149!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02946a8eaa2eaf%3A0x8fd0e70d7c12b440!2sPadumbasan%20Bus%20stop!5e0!3m2!1sen!2sin!4v1732010271485!5m2!1sen!2sin" width="100%" height="500px" allowfullscreen=""></iframe>
+  </div>
+</div>
+</div>
+
+
 
 <?php include('footer.php') ?>

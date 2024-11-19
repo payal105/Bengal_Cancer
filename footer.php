@@ -9,6 +9,10 @@
   <script type="text/javascript" src="js/smoothscroll.js"></script>
   <script type="text/javascript" src="js/single-0.1.0.js"></script>
   <script type="text/javascript" src="js/custom.js"></script>
+  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
 </body>
 
 </html>

@@ -11,6 +11,7 @@
   <meta name="description" content="Health Care HTML Template" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <!--start theme style -->
+  <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
   <link rel="stylesheet" href="css/animate.css" media="screen" />
   <link rel="stylesheet" href="css/bootstrap.min.css" media="screen" />
   <link rel="stylesheet" href="css/font-awesome.css" media="screen" />
@@ -176,12 +177,12 @@
         </div>
         <div class="headernavcontact col-lg-3 col-md-12 col-sm-12">
 
-          <a href="tel:8902202926">
-            <button type="button" class="btn success-btn">8902202926</button>
+          <a href="tel:+918100078791">
+            <button type="button" class="btn success-btn">+918100078791</button>
           </a>
-          <a href="tel:9597239955">
+          <!-- <a href="tel:9597239955">
             <button type="button" class="btn success-btn">9597239955</button>
-          </a>
+          </a> -->
 
           <!-- <div class="hs_social">
             <ul>

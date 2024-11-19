@@ -15,7 +15,7 @@ include 'svg.php';
     <div class="row">
       <div class="col-md-12 align-c pull-down-62 hs_portfolio index_portfolio">
         <!-- /.title -->
-        <h4 class="hs_heading">Doctors Available</h4>
+        <!-- <h4 class="hs_heading">Doctors Available</h4> -->
         <!-- <ul class="push-down-62 portfolio-filter" data-scrollreveal="enter from the bottom over 1s but wait 0.5s">
           <li><a href="#" class="filter-item active" data-filter="all">All Team</a></li>
           <li><a href="#" class="filter-item" data-filter="Pediatric">Heart specialist</a></li>
@@ -27,55 +27,65 @@ include 'svg.php';
       </div>
     </div>
     <div class="clearfix"></div>
-    <div class="row portfolio-grid" id="grid">
-      <div class="col-md-6 col-lg-4 col-sm-6 Pediatric Cancer mix">
-        <div class="portfolio-item">
-          <img src="images/team/team_member8.png" alt="" width="340" height="340" />
-          <div class="portfolio_doctor_details">
-            <h4>Dr. Kamakha Prasad Dolui </h4>
-            <p>MBBS (WBUHS), MS (IPGMER), DNB, FMAS, FIAGES, FALS (Robotic)
-Fellowship in Breast Cancer
-board certified ATLS instructor</p>
+    
+    <div class="container">
+      <div class="row " data-aos="fade-up"
+      data-aos-anchor-placement="top-bottom" data-aos-duration="1000" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
+        <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
+          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+        </div>
+        <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
+        <div class="portfolio_doctor_details">
+            <h4 class="text-white">Dr. Kamakha Prasad Dolui </h4>
+            <p class="text-white">MBBS (WBUHS), MS (IPGMER), DNB, FMAS, FIAGES, FALS (Robotic)
+                Fellowship in Breast Cancer
+                board certified ATLS instructor</p>
             
             
           </div>
         </div>
-
       </div>
-      <!-- /.col-md-4 portfolio-item mix -->
-      <div class="col-md-6 col-lg-4 col-sm-6 Cancer General mix">
-        <div class="portfolio-item">
-          <img src="images/team/team_member6.png" alt="" width="340" height="340" />
-          <div class="portfolio_doctor_details">
-            <h4>Dr. Ramanuj Ghosh</h4>
-            <p>MDS,Fellowship in Head , Neck & Oncology , Consultant-Maxillo Facial,  Head & Neck <br> Oncosurgeon</p>
+      <div class="row" data-aos="fade-up"
+      data-aos-anchor-placement="top-bottom" data-aos-duration="1200" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
+        
+        <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
+        <div class="portfolio_doctor_details">
+            <h4 class="text-white">Dr. Ramanuj Ghosh</h4>
+            <p class="text-white">MDS,Fellowship in Head , Neck & Oncology , Consultant-Maxillo Facial,  Head & Neck Oncosurgeon</p>
         
           </div>
         </div>
+        <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
+          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+        </div>
       </div>
-      <!-- /.col-md-4 portfolio-item mix -->
-      <div class="col-md-6 col-lg-4 col-sm-6 General Physiotherapy printing mix">
-        <div class="portfolio-item">
-          <img src="images/team/team_member9.png" alt="" width="340" height="340" />
-          <div class="portfolio_doctor_details">
-            <h4>Dr. Mainak Maiti </h4>
-            <p>Consultant Gynae Oncologist, Robotic Surgeon & Laparoscopic Surgeon , MBBS, DNB (OBST & GYNAE) FELLOWSHIP IN GYNAE Oncology</p>
+      <div class="row" data-aos="fade-up"
+      data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
+        <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
+          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+        </div>
+        <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
+        <div class="portfolio_doctor_details">
+            <h4 class="text-white">Dr. Mainak Maiti </h4>
+            <p class="text-white">Consultant Gynae Oncologist, Robotic Surgeon & Laparoscopic Surgeon , MBBS, DNB (OBST & GYNAE) FELLOWSHIP IN GYNAE Oncology</p>
             
           </div>
         </div>
       </div>
-       <!-- /.col-md-4 portfolio-item mix -->
-       <div class="col-md-6 col-lg-4 col-sm-6 General Physiotherapy printing mix">
-        <div class="portfolio-item">
-          <img src="images/team/team_member9.png" alt="" width="340" height="340" />
-          <div class="portfolio_doctor_details">
-            <h4>Dr. Kazi  </h4>
-            <p>MD (Radiation Oncology), DNB, PDCR, European Certificate for Medical Oncology</p>
+      <div class="row" data-aos="fade-up"
+      data-aos-anchor-placement="top-bottom" data-aos-duration="900" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
+        
+        <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
+        <div class="portfolio_doctor_details">
+            <h4 class="text-white">Dr. Kazi  </h4>
+            <p class="text-white">MD (Radiation Oncology), DNB, PDCR, European Certificate for Medical Oncology</p>
             
           </div>
         </div>
+        <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
+          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+        </div>
       </div>
-    
     </div>
     <!-- <div class="hs_pager">
       <ul>
