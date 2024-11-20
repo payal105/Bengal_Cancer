@@ -32,7 +32,7 @@ include 'svg.php';
       <div class="row " data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1000" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/team/kamakkha_doc.jpeg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
         <div class="portfolio_doctor_details">
@@ -56,13 +56,13 @@ include 'svg.php';
           </div>
         </div>
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/team/ramanuj_doc.jpeg" alt="">
         </div>
       </div>
       <div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/team/mainak_doc.jpeg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
         <div class="portfolio_doctor_details">

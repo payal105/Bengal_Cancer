@@ -18,8 +18,9 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Cancer Consultation</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">ক্যান্সার নির্ণয় ও চিকিৎসা পরামর্শ</h4>
+				<p class="text-white">
+        ক্যান্সার নির্ণয় ও চিকিৎসা পরামর্শ সেবার মাধ্যমে রোগীকে ক্যান্সারের সঠিক অবস্থান, প্রকার এবং এর কার্যকরী চিকিৎসা পদ্ধতি সম্পর্কে বিস্তারিত তথ্য প্রদান করা হয়। এই পরামর্শ সেবায় ক্যান্সার বিশেষজ্ঞরা রোগীর উপসর্গ, মেডিক্যাল ইতিহাস এবং প্রয়োজনীয় পরীক্ষা-নিরীক্ষার ফলাফল বিশ্লেষণ করে নির্দিষ্ট চিকিৎসা পদ্ধতি নির্ধারণ করেন। এর ফলে রোগী ও তাদের পরিবার ক্যান্সারের প্রতিটি পর্যায়ে বিস্তারিত তথ্য এবং সমর্থন পেতে পারেন।</p>
 				
 			</div>
         </div>
@@ -31,8 +32,8 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Cancer Surgery</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">ক্যান্সার সার্জারি </h4>
+				<p class="text-white">ক্যান্সার সার্জারি একটি চিকিৎসা পদ্ধতি যেখানে অপারেশনের মাধ্যমে শরীর থেকে ক্যান্সারের টিউমার বা ক্ষতিগ্রস্ত টিস্যু অপসারণ করা হয়। এই প্রক্রিয়ায় মূলত ক্যান্সারের বিস্তার রোধ এবং রোগীর শরীর থেকে ক্যান্সার কোষ সম্পূর্ণরূপে সরিয়ে ফেলার চেষ্টা করা হয়। ক্যান্সারের প্রকার, অবস্থান এবং রোগীর শারীরিক অবস্থার ওপর নির্ভর করে বিভিন্ন ধরণের ক্যান্সার সার্জারি প্রয়োগ করা হয়, যেমন টিউমার অপসারণ, লিম্ফ নোড অপসারণ এবং পুনর্গঠন সার্জারি। এটি প্রায়শই কেমোথেরাপি বা রেডিয়েশন থেরাপির মতো অন্যান্য চিকিৎসার সাথে সমন্বিতভাবে ব্যবহার করা হয়। </p>
 				
 			</div>
         </div>
@@ -44,8 +45,8 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Radiotherapy</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">রেডিওথেরাপি</h4>
+				<p class="text-white">রেডিওথেরাপি (Radiotherapy) হলো ক্যান্সার চিকিৎসার একটি পদ্ধতি যেখানে উচ্চ শক্তির রেডিও এক্স রশ্মি বা অন্যান্য ধরনের তেজস্ক্রিয় বীজকণা ব্যবহার করে ক্যান্সার কোষ ধ্বংস করা হয়। এটি শরীরের নির্দিষ্ট অংশে ক্যান্সারের টিউমার বা আক্রমণকারী কোষগুলোকে লক্ষ্য করে প্রয়োগ করা হয়। রেডিওথেরাপি মূলত দুটি ধরণের হয়: এক্সটার্নাল বিইম রেডিওথেরাপি (বাহ্যিক রশ্মি) এবং ইন্টার্নাল রেডিওথেরাপি (ব্রাকিথেরাপি)। এই চিকিৎসা পদ্ধতিটি ক্যান্সার টিউমারের আকার ছোট করতে, বিস্তার রোধ করতে বা অপারেশনের পর বাকি ক্যান্সার কোষ ধ্বংস করতে ব্যবহৃত হয়।  </p>
 				
 			</div>
         </div>
@@ -57,8 +58,8 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Chemotherapy</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">কেমোথেরাপি</h4>
+				<p class="text-white">কেমোথেরাপি হলো ক্যান্সার চিকিৎসার একটি পদ্ধতি, যেখানে বিশেষ ধরনের ওষুধ ব্যবহার করে ক্যান্সার কোষ ধ্বংস করা হয় বা তাদের বৃদ্ধি ধীর করে দেওয়া হয়। কেমোথেরাপি শরীরের বিভিন্ন অংশে ছড়িয়ে পড়া ক্যান্সার কোষগুলিকে লক্ষ্য করে কাজ করে এবং সাধারণত রক্ত দ্বারা শরীরের অন্যান্য স্থানে পৌঁছে যায়। এটি টিউমার ছোট করতে, ক্যান্সার কোষের বৃদ্ধি বন্ধ করতে, এবং ক্যান্সারের পুনরাবৃত্তি প্রতিরোধ করতে সাহায্য করে। কেমোথেরাপি সাধারণত গুলি, ইনজেকশন বা ট্যাবলেট আকারে দেওয়া হয় এবং প্রায়ই অন্যান্য চিকিৎসা পদ্ধতির সাথে একসাথে ব্যবহৃত হয়, যেমন সার্জারি বা রেডিওথেরাপি। </p>
 				
 			</div>
         </div>
@@ -70,8 +71,8 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Immunotherapy</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">ইমিউনোথেরাপি</h4>
+				<p class="text-white">ইমিউনোথেরাপি হলো ক্যান্সার চিকিৎসার একটি আধুনিক পদ্ধতি, যা রোগীর শরীরের ইমিউন সিস্টেমকে শক্তিশালী করে ক্যান্সার কোষের বিরুদ্ধে লড়াই করতে সাহায্য করে। এই চিকিৎসায় বিশেষ ধরনের ওষুধ ব্যবহার করা হয়, যা ইমিউন সিস্টেমকে উত্তেজিত বা সমর্থিত করে, যাতে তা ক্যান্সারের কোষগুলোকে সনাক্ত করতে এবং ধ্বংস করতে পারে। ইমিউনোথেরাপি ক্যান্সারের কিছু প্রকারে, যেমন মেলানোমা, লাং ক্যান্সার, কিডনি ক্যান্সার, এবং হডজকিন লিম্ফোমা, অত্যন্ত কার্যকর হতে পারে। এটি অন্যান্য চিকিৎসা পদ্ধতির পাশাপাশি ব্যবহৃত হয় এবং রোগীর শারীরিক অবস্থার ওপর ভিত্তি করে নির্ধারিত হয়। </p>
 				
 			</div>
         </div>
@@ -83,8 +84,8 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Second Opinion</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">চিকিৎসার দ্বিতীয় মতামত </h4>
+				<p class="text-white">চিকিৎসার দ্বিতীয় মতামত হলো যখন একজন রোগী প্রথম চিকিৎসকের দেওয়া চিকিৎসা পদ্ধতি বা নির্ণয়ের পর আরও একটি পেশাদার চিকিৎসকের পরামর্শ নেন। এটি রোগীকে নিশ্চিত করতে সাহায্য করে যে তাদের রোগের জন্য সঠিক এবং সর্বোত্তম চিকিৎসা পরিকল্পনা প্রয়োগ হচ্ছে। দ্বিতীয় মতামত সাধারণত ক্যান্সার, জটিল রোগ বা দীর্ঘস্থায়ী রোগের ক্ষেত্রে গুরুত্বপূর্ণ, কারণ এতে রোগীর জন্য আরও বিকল্প বা উন্নত চিকিৎসার সুযোগ খোলা থাকে। দ্বিতীয় মতামত নেওয়া রোগীদের জন্য একটি নিরাপত্তা ব্যবস্থা হতে পারে, যা তাদের সিদ্ধান্ত নেওয়ার প্রক্রিয়াকে আরও নির্ভরযোগ্য এবং আত্মবিশ্বাসী করে তোলে। </p>
 				
 			</div>
         </div>
@@ -96,8 +97,8 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Tumor Board</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">মাল্টি ডিসিপ্লিনারি টিউমর বোর্ড  </h4>
+				<p class="text-white">মাল্টি ডিসিপ্লিনারি টিউমর বোর্ড (MDTB) হলো একটি বিশেষজ্ঞদের দল, যাদের মধ্যে বিভিন্ন চিকিৎসা ক্ষেত্রের পেশাদাররা একত্রিত হয়ে ক্যান্সার রোগীদের চিকিৎসা পরিকল্পনা নিয়ে আলোচনা ও সিদ্ধান্ত নেন। এই বোর্ডে সাধারণত ক্যান্সার বিশেষজ্ঞ, সার্জন, রেডিয়েশন অনকোলজিস্ট, কেমোথেরাপি বিশেষজ্ঞ, প্যাথোলজিস্ট, এবং অন্যান্য সংশ্লিষ্ট বিশেষজ্ঞরা উপস্থিত থাকেন। তাদের লক্ষ্য হলো রোগীের জন্য সর্বোত্তম চিকিৎসা পদ্ধতি নির্ধারণ করা, যাতে রোগীর ক্যান্সার চিকিৎসা আরও কার্যকরী এবং ব্যক্তিগত প্রয়োজন অনুযায়ী হয়। এটি একটি সমন্বিত দলগত প্রচেষ্টা, যা রোগীকে আরও উন্নত এবং সঠিক চিকিৎসা প্রদান করতে সহায়ক। </p>
 				
 			</div>
         </div>
@@ -109,8 +110,8 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">FNAC</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">ফাইন শুঁইন এজ নিডল অ্যাস্পিরেশন (FNAC) – স্বেলিং </h4>
+				<p class="text-white">ফাইন শুঁইন এজ নিডল অ্যাস্পিরেশন (FNAC) একটি পদ্ধতি, যা শরীরের যেকোনো অংশে স্ফীতি (স্বেলিং) বা টিউমার থেকে সেল বা টিস্যু সংগ্রহ করতে ব্যবহৃত হয়। এই পদ্ধতিতে, একটি সুতার মতো সুঁই ব্যবহার করে স্ফীত অংশ থেকে একটি ছোট নমুনা সংগ্রহ করা হয় এবং তা প্যাথোলজিক্যাল পরীক্ষার জন্য ল্যাবরেটরিতে পাঠানো হয়। FNAC বিশেষত গলা, বুক, স্তন, ত্বক বা অন্য কোনো অংশে স্ফীতি বা অস্বাভাবিক গুঁটির ক্ষেত্রে ব্যবহৃত হয়, যাতে তা নির্ণয় করা যায় যে সেটি ক্যান্সার, ইনফেকশন বা অন্য কোনো অবস্থার কারণে হচ্ছে কি না। এটি একটি নিরাপদ, সহজ এবং দ্রুত পদ্ধতি, যা রোগীর জন্য কম ব্যথা এবং অল্প সময়ে ফলাফল প্রদান করে। </p>
 				
 			</div>
         </div>
@@ -122,8 +123,13 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Biopsy</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">বায়োপসি (ট্রুকট/এক্সিসন ইত্যাদি) </h4>
+				<p class="text-white">বায়োপসি হলো একটি চিকিৎসা পদ্ধতি, যার মাধ্যমে শরীরের একটি ছোট অংশ বা টিস্যু নমুনা সংগ্রহ করা হয়, যাতে তা প্যাথোলজিক্যাল পরীক্ষার মাধ্যমে রোগ নির্ণয় করা যায়। বায়োপসি বিভিন্ন ধরনের হতে পারে, যেমন:
+          <br>
+1.	ট্রুকট বায়োপসি (Trucut Biopsy): এতে একটি বিশেষ ধরনের সুঁই দিয়ে টিস্যুর নমুনা সংগ্রহ করা হয়। এটি সাধারণত টিউমার বা স্ফীতি থেকে নমুনা নেওয়ার জন্য ব্যবহৃত হয়। <br>
+2.	এক্সিসন বায়োপসি (Excision Biopsy): এই পদ্ধতিতে স্ফীতি বা টিউমারের পুরো অংশ বা একটি বড় অংশ অপসারণ করা হয়। এটি বড় টিউমার বা গভীর অবস্থানে থাকা টিস্যুর জন্য ব্যবহৃত হয়।
+বায়োপসি প্রক্রিয়া সাধারণত রোগীর শরীরের একটি ছোট অংশে করা হয়, এবং এটি ক্যান্সার, ইনফেকশন বা অন্য কোন অস্বাভাবিক অবস্থার সঠিক নির্ণয় করার জন্য গুরুত্বপূর্ণ। বায়োপসি পরীক্ষা থেকে প্রাপ্ত ফলাফল চিকিৎসককে সঠিক চিকিৎসা পরিকল্পনা তৈরি করতে সহায়তা করে। 
+</p>
 				
 			</div>
         </div>
@@ -135,8 +141,11 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Palliative Care</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">সহায়ক যত্ন সেবা যেমন </h4>
+				<p class="text-white">সহায়ক যত্ন সেবা (Supportive Care Services) হলো এমন চিকিৎসা সেবা যা রোগীকে মূল চিকিৎসার পাশাপাশি শারীরিক, মানসিক এবং মানসিক স্বাস্থ্যের যত্ন নিতে সহায়তা করে। এই সেবাগুলি রোগীর জীবনযাত্রা উন্নত করতে এবং চিকিৎসা প্রক্রিয়া চলাকালীন তাদের আরাম নিশ্চিত করতে ব্যবহৃত হয়। সহায়ক যত্ন সেবার মধ্যে অন্তর্ভুক্ত হতে পারে: <br>
+•	প্যালিয়েটিভ কেয়ার - প্যালিয়েটিভ কেয়ার হলো একটি চিকিৎসা পদ্ধতি যা গুরুতর অসুস্থতা বা জীবনাবসান সংক্রান্ত রোগীদের আরাম প্রদান এবং তাদের জীবনযাত্রার গুণগত মান উন্নত করতে সহায়তা করে। এটি মূলত ক্যান্সার, হৃদরোগ, কিডনি বা ফুসফুসের সমস্যা, নিউরোলজিকাল ডিজিজ বা অন্যান্য দীর্ঘস্থায়ী রোগের ক্ষেত্রে প্রয়োগ করা হয়। প্যালিয়েটিভ কেয়ার রোগীকে শারীরিক ব্যথা, মানসিক চাপ, মানসিক অবস্থা, এবং অন্যান্য সমস্যা থেকে মুক্তি দিতে সহায়ক।
+এই চিকিৎসায় রোগীর অনুভূতি, শারীরিক স্বাস্থ্য, এবং মানসিক অবস্থা সবকিছুর উপর   মনোযোগ দেওয়া হয়, যাতে রোগীকে আরও স্বস্তি এবং সমর্থন প্রদান করা যায়। প্যালিয়েটিভ কেয়ার শুধুমাত্র রোগ নিরাময় নয়, বরং রোগী এবং তাদের পরিবারের মানসিক ও শারীরিক সহায়তাও প্রদান করে। এটি জীবনের শেষ পর্যায়ে আরামদায়ক জীবনযাপন নিশ্চিত করতে সহায়ক।
+</p>
 				
 			</div>
         </div>
@@ -148,8 +157,15 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Nutrition</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">পুষ্টি</h4>
+				<p class="text-white">পুষ্টি হলো এমন একটি প্রক্রিয়া যার মাধ্যমে আমাদের শরীর প্রয়োজনীয় শক্তি, ভিটামিন, খনিজ পদার্থ, প্রোটিন এবং অন্যান্য পুষ্টি উপাদান গ্রহণ করে এবং ব্যবহার করে। সঠিক পুষ্টি শরীরের সঠিক বিকাশ, শক্তির উৎস, এবং সুস্থতার জন্য অত্যন্ত গুরুত্বপূর্ণ। এটি খাদ্য থেকে পুষ্টি উপাদান গ্রহণের মাধ্যমে শারীরিক এবং মানসিক স্বাস্থ্যের উন্নতি সাধন করে।
+পুষ্টির মধ্যে অন্তর্ভুক্ত রয়েছে: <br>
+•	প্রোটিন: শারীরিক বৃদ্ধি এবং মেরামতের জন্য প্রয়োজনীয়। <br>
+•	কার্বোহাইড্রেট: শক্তির প্রধান উৎস। <br>
+•	ভিটামিন ও খনিজ: শরীরের বিভিন্ন কাজের জন্য অপরিহার্য। <br>
+•	ফ্যাট: শক্তির উৎস এবং সেলুলার কার্যকলাপের জন্য প্রয়োজনীয়। <br>
+সঠিক পুষ্টির অভাব বিভিন্ন শারীরিক সমস্যা সৃষ্টি করতে পারে, যেমন দুর্বলতা, রোগ প্রতিরোধ ক্ষমতার কমে যাওয়া, এবং বিকাশজনিত সমস্যাসমূহ। তাই, একটি সুষম এবং স্বাস্থ্যকর খাদ্যাভ্যাস বজায় রাখা স্বাস্থ্য রক্ষা এবং সুস্থ জীবনযাত্রার জন্য অপরিহার্য। 
+</p>
 				
 			</div>
         </div>
@@ -161,8 +177,10 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Speech Therapy</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">বক্তব্য গিলার থেরাপি </h4>
+				<p class="text-white">বক্তব্য গিলার থেরাপি (Speech Swallow Therapy) হলো একটি বিশেষ ধরনের থেরাপি যা গলার সমস্যা বা খাওয়ার সময় গিলতে অসুবিধা হওয়া রোগীদের জন্য ব্যবহৃত হয়। এটি বিশেষত সেইসব ব্যক্তিদের জন্য গুরুত্বপূর্ণ যারা স্ট্রোক, নিউরোলজিকাল ডিজিজ, ক্যান্সার বা অন্যান্য শারীরিক অবস্থার কারণে গিলতে সমস্যার সম্মুখীন হন।
+এই থেরাপির মাধ্যমে, স্পিচ থেরাপিস্ট রোগীকে সঠিকভাবে গিলতে শেখান, যাতে খাওয়ার সময় কোনো ধরনের বাধা বা সমস্যা সৃষ্টি না হয়। এতে সঠিক গিলানোর কৌশল, পেশী শক্তি বৃদ্ধি, এবং নিরাপদে খাদ্য গ্রহণের জন্য প্রয়োজনীয় প্রশিক্ষণ প্রদান করা হয়। এই থেরাপি গলার পেশীগুলিকে শক্তিশালী করতে এবং গিলতে সক্ষমতা ফিরিয়ে আনার জন্য সহায়ক।
+</p>
 				
 			</div>
         </div>
@@ -174,8 +192,10 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Physiotherapy</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">ফিজিওথেরাপি </h4>
+				<p class="text-white">ফিজিওথেরাপি হলো একটি চিকিৎসা পদ্ধতি যা শরীরের পেশী, হাড়, স্নায়ু এবং অন্যান্য অঙ্গ-প্রত্যঙ্গের কার্যক্রম পুনরুদ্ধার এবং উন্নতির জন্য বিভিন্ন শারীরিক অনুশীলন এবং চিকিৎসা কৌশল ব্যবহার করে। এটি সাধারণত শারীরিক আঘাত, পেশী দুর্বলতা, জয়েন্টের সমস্যা, স্ট্রোক, বা অন্যান্য শারীরিক অবস্থার পরিপ্রেক্ষিতে ব্যবহৃত হয়।
+ফিজিওথেরাপি চিকিৎসকরা রোগীর শারীরিক অবস্থা অনুযায়ী বিভিন্ন পদ্ধতি যেমন ম্যাসাজ, ব্যায়াম, তাপ বা ঠাণ্ডা থেরাপি, মোবিলাইজেশন, এবং ইলেকট্রিকাল থেরাপি প্রয়োগ করেন। এই থেরাপির লক্ষ্য হলো ব্যথা উপশম করা, শরীরের গতিশীলতা এবং শক্তি পুনরুদ্ধার করা, এবং রোগীর দৈনন্দিন জীবনযাত্রাকে উন্নত করা। ফিজিওথেরাপি রোগীর স্বাভাবিক শারীরিক কার্যকলাপ পুনরুদ্ধারের জন্য গুরুত্বপূর্ণ ভূমিকা পালন করে।
+</p>
 				
 			</div>
         </div>
@@ -187,8 +207,10 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Psychology</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">জেনেটিক কাউন্সেলিং </h4>
+				<p class="text-white">জেনেটিক কাউন্সেলিং হলো একটি বিশেষজ্ঞ চিকিৎসা সেবা, যা রোগীদের বা তাদের পরিবারকে জেনেটিক বা বংশগত রোগ সম্পর্কে তথ্য প্রদান এবং তাদের স্বাস্থ্য ঝুঁকি সম্পর্কিত সিদ্ধান্ত নিতে সহায়তা করে। এই পরামর্শ প্রক্রিয়ায়, একজন জেনেটিক কাউন্সেলর রোগীর পরিবারের ইতিহাস, জেনেটিক রোগ এবং তাদের প্রভাব নিয়ে আলোচনা করেন।
+জেনেটিক কাউন্সেলিং বিশেষত তখন গুরুত্বপূর্ণ, যখন পরিবারে কোনও বংশগত রোগ বা জন্মগত ত্রুটি থাকে, বা যখন কোন রোগী গর্ভধারণের আগে জেনেটিক পরীক্ষা করতে চান। এটি রোগীর বা তাদের পরিবারকে তাদের ভবিষ্যৎ স্বাস্থ্য ঝুঁকি এবং সম্ভাব্য চিকিৎসা ব্যবস্থা সম্পর্কে সচেতন করতে সহায়ক, এবং তাদের আরও ভালো সিদ্ধান্ত নেওয়ার জন্য গাইড করে।
+</p>
 				
 			</div>
         </div>
@@ -200,8 +222,10 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Dental Care</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">ক্লিনিক্যাল সাইকোলজি </h4>
+				<p class="text-white">ক্লিনিক্যাল সাইকোলজি হলো মনোবিজ্ঞানের একটি শাখা, যা মানসিক স্বাস্থ্য সমস্যা এবং অনুভূতির অস্বাভাবিকতাগুলির মূল্যায়ন, নির্ণয়, এবং চিকিৎসা নিয়ে কাজ করে। এটি মানুষের আচরণ, অনুভূতি, চিন্তা এবং মানসিক সুস্থতা নিয়ে অধ্যয়ন করে, বিশেষত তখন যখন কোনো ব্যক্তির মানসিক অবস্থার কারণে তার দৈনন্দিন জীবনযাত্রায় সমস্যা সৃষ্টি হয়।
+ক্লিনিক্যাল সাইকোলজিস্টরা রোগীকে বিভিন্ন মানসিক সমস্যা, যেমন উদ্বেগ, বিষণ্নতা, স্ট্রেস, আক্রমণাত্মক আচরণ, আসক্তি, এবং অন্যান্য মানসিক রোগের জন্য পরামর্শ এবং চিকিৎসা প্রদান করেন। তারা সাধারণত কথোপকথন থেরাপি (থেরাপিউটিক কনসালটেশন), আচরণমূলক থেরাপি, কগনিটিভ থেরাপি, এবং অন্যান্য মনোবৈজ্ঞানিক কৌশল ব্যবহার করে রোগীকে সুস্থ করতে সহায়ক হন।
+</p>
 				
 			</div>
         </div>
@@ -213,8 +237,10 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Head & Neck Cancer</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">দন্ত চিকিৎসা </h4>
+				<p class="text-white">দন্ত চিকিৎসা হলো মুখ, দাঁত, মাড়ি, এবং অন্যান্য মুখগহ্বরের অংশের স্বাস্থ্য ও চিকিৎসা সংক্রান্ত একটি শাখা। এটি দাঁতের সঠিক যত্ন নেওয়া, দাঁতের সমস্যা নির্ণয় এবং চিকিৎসা করার প্রক্রিয়া। দন্ত চিকিৎসার মধ্যে দাঁতের রোগ, দাঁত পরিষ্কার, দাঁতের ফিলিং, দাঁতের মুকুট (ক্রাউন), রুট ক্যানাল চিকিৎসা, মাড়ির রোগ এবং দাঁতের সৌন্দর্য সংক্রান্ত চিকিৎসা অন্তর্ভুক্ত থাকে।
+দন্ত চিকিৎসা সঠিকভাবে করা হলে দাঁতের রোগ প্রতিরোধ করা যায় এবং মুখগহ্বরের সুস্থতা বজায় রাখা সম্ভব। দন্ত চিকিৎসা, যেমন নিয়মিত দাঁত ব্রাশ করা, ফ্লস ব্যবহার, দাঁতের সাফাই এবং দন্ত বিশেষজ্ঞের পরামর্শ গ্রহণ, দাঁত ও মাড়ির স্বাস্থ্য রক্ষা করতে গুরুত্বপূর্ণ ভূমিকা পালন করে।
+</p>
 				
 			</div>
         </div>
@@ -226,8 +252,23 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Gynecological Cancer</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">যেকোনো ক্যান্সারের পরামর্শ এবং চিকিৎসা </h4>
+				<p class="text-white">মাথা ও গলা ক্যান্সার (জিভ, তালু, মাড়ি, ম্যাক্সিলা, ম্যান্ডিবুল, প্যারোটিড গ্রন্থি, থাইরয়েড, ল্যারিঙ্ক্স ক্যান্সার ইত্যাদি) -
+মাথা ও গলা ক্যান্সার একটি ধরনের ক্যান্সার, যা মুখ, গলা, গলার ভেতরের অংশ এবং এর আশেপাশের গ্ল্যান্ড এবং টিস্যুগুলোতে হয়। এই ক্যান্সারের অন্তর্ভুক্ত হয়: <br>
+•	জিভ ক্যান্সার (Tongue Cancer): জিভের ওপর বা নীচে ক্যান্সার হতে পারে, যা সাধারণত মুখের ক্যান্সার হিসেবে বিবেচিত হয়।  <br>
+•	তালু ক্যান্সার (Palate Cancer): তালুর ওপর বা নীচে ক্যান্সার হলে এটি মাথা ও গলা ক্যান্সারের মধ্যে পড়ে। <br>
+•	মাড়ি ক্যান্সার (Gum Cancer): মাড়ির টিস্যুতে ক্যান্সার। <br>
+•	ম্যাক্সিলা ক্যান্সার (Maxilla Cancer): উপরের চোয়ালের হাড়ে ক্যান্সার। <br>
+•	ম্যান্ডিবুল ক্যান্সার (Mandible Cancer): নিচের চোয়ালের হাড়ে ক্যান্সার। <br>
+•	প্যারোটিড গ্রন্থি ক্যান্সার (Parotid Gland Cancer): থুতু উৎপন্নকারী গ্ল্যান্ডে ক্যান্সার। <br>
+•	থাইরয়েড ক্যান্সার (Thyroid Cancer): গলার সামনে থাইরয়েড গ্রন্থিতে ক্যান্সার। <br>
+•	ল্যারিঙ্ক্স ক্যান্সার (Larynx Cancer): গলার কণ্ঠনালিকা বা ভোকাল কর্ডের ক্যান্সার। <br>
+যানিতিক ক্যান্সার (গর্ভাশয় মুলা ক্যান্সার, গর্ভাশয় ক্যান্সার, ডিম্বাশয় ক্যান্সার ইত্যাদি) - 
+যানিতিক ক্যান্সার হলো মহিলাদের প্রজনন অঙ্গের ক্যান্সার, যা গর্ভাশয়, ডিম্বাশয়, মুলা বা অন্যান্য সম্পর্কিত অঙ্গগুলিতে হতে পারে। এর মধ্যে প্রধান ক্যান্সারগুলি হল:
+•	গর্ভাশয় মুলা ক্যান্সার (Cervical Cancer): এটি গর্ভাশয়ের নিচের অংশে, যেখানে মুলা (cervix) থাকে, সেখানে ঘটে। এটি সাধারণত মানব প্যাপিলোমা ভাইরাস (HPV) দ্বারা সৃষ্ট হয় এবং প্রাথমিক পর্যায়ে শনাক্ত করা হলে সহজেই চিকিৎসা করা যেতে পারে। <br>
+•	গর্ভাশয় ক্যান্সার (Uterine Cancer): গর্ভাশয়ের ভিতরের স্তর (এন্ডোমেট্রিয়াম) থেকে শুরু হওয়া ক্যান্সার। এটি মহিলাদের মধ্যে সবচেয়ে সাধারণ প্রজনন অঙ্গের ক্যান্সারগুলির একটি। <br>
+•	ডিম্বাশয় ক্যান্সার (Ovarian Cancer): ডিম্বাশয়ে ক্যান্সার হওয়া, যা মহিলাদের মধ্যে সবচেয়ে বিপজ্জনক ক্যান্সারগুলির মধ্যে একটি, কারণ এটি সাধারণত খুব ধীর গতিতে বৃদ্ধি পায় এবং প্রাথমিক পর্যায়ে তেমন কোনো উপসর্গ দেখা যায় না।
+</p>
 				
 			</div>
         </div>
@@ -239,8 +280,14 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Breast Cancer</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">স্তন ক্যান্সার </h4>
+				<p class="text-white">স্তন ক্যান্সার হলো স্তনের টিস্যুতে হওয়া এক ধরনের ক্যান্সার, যা মূলত স্তনের দুধ তৈরি করা গ্ল্যান্ড বা ডাকটের টিস্যুতে তৈরি হয়। এটি মহিলাদের মধ্যে সবচেয়ে সাধারণ ক্যান্সার এবং পুরুষদের মধ্যেও বিরলভাবে হতে পারে। স্তন ক্যান্সারের প্রধান কারণগুলি অজানা হলেও, এটি প্রায়ই বংশগত বা হরমোনাল পরিবর্তনের কারণে ঘটে।
+স্তন ক্যান্সারের উপসর্গগুলির মধ্যে রয়েছে: <br>
+•	স্তনের মধ্যে একটি শক্ত বা গুটি অনুভূত হওয়া <br>
+•	স্তন বা মাড়ি থেকে রক্ত বা অন্যান্য তরল নিঃসৃত হওয়া <br>
+•	স্তনের আকার বা আয়তনে পরিবর্তন <br>
+•	স্তনের ত্বকের উপর পরিবর্তন বা চামড়া কুঁচকে যাওয়া  <br>
+</p>
 				
 			</div>
         </div>
@@ -252,8 +299,17 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Stomach Cancer</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">পেটের ক্যান্সার </h4>
+				<p class="text-white">পেটের ক্যান্সার হলো পেটের অভ্যন্তরীণ স্তরের টিস্যুতে সৃষ্ট এক ধরনের ক্যান্সার, যা সাধারণত পেটের শ্লেষ্মা বা মিউকোসা (mucosa) থেকে শুরু হয় এবং সময়ের সাথে এটি অন্যান্য অংশে ছড়িয়ে পড়তে পারে। পেটের ক্যান্সার দীর্ঘ সময় ধরে কোনও বড় উপসর্গ না দেখাতে পারে, কিন্তু পরে এটি গুরুতর হতে পারে।
+পেটের ক্যান্সারের কিছু সাধারণ উপসর্গ হলো: <br>
+•	অনিয়মিত পেট ব্যথা বা অস্বস্তি <br>
+•	খাওয়ার পর পেট পূর্ণ অনুভব হওয়া <br>
+•	ওজন কমে যাওয়া বা ক্ষুধামন্দা <br>
+•	বমি বা রক্তপাত <br>
+•	পেট ফোলা বা হজমে সমস্যা <br>
+•	মল বা প্রস্রাবের রং পরিবর্তন <br>
+পেটের ক্যান্সারের কারণের মধ্যে দীর্ঘস্থায়ী হেলিকোব্যাক্টর পাইলোরি সংক্রমণ, ধূমপান, অতিরিক্ত অ্যালকোহল সেবন, অস্বাস্থ্যকর খাদ্যাভ্যাস (বিশেষ করে অতিরিক্ত লবণ, তেল, মসলাযুক্ত খাবার) এবং বংশগত কারণ অন্তর্ভুক্ত থাকতে পারে।
+</p>
 				
 			</div>
         </div>
@@ -265,8 +321,17 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Pancreatic Cancer</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">প্যাংক্রিয়াটিক ক্যান্সার </h4>
+				<p class="text-white">প্যাংক্রিয়াটিক ক্যান্সার হলো প্যানক্রিয়াসে (অগ্ন্যাশয়) সৃষ্ট একটি ক্যান্সার, যা শরীরের বিপাক প্রক্রিয়া নিয়ন্ত্রণে গুরুত্বপূর্ণ ভূমিকা পালন করে। প্যাংক্রিয়াটিক ক্যান্সার সাধারণত প্যানক্রিয়াসের শ্লেষ্মা বা প্যানক্রিয়াটিক টিস্যু থেকে শুরু হয় এবং এটি দ্রুত বৃদ্ধি পেয়ে শরীরের অন্যান্য অংশে ছড়িয়ে পড়তে পারে। এই ক্যান্সার সাধারণত প্রাথমিক পর্যায়ে কোনো লক্ষণ প্রকাশ না করায়, ফলে বেশিরভাগ রোগী এটি অনেক দেরিতে শনাক্ত হয়।
+প্যাংক্রিয়াটিক ক্যান্সারের কিছু সাধারণ উপসর্গ হলো:
+•	পেটের উপরের অংশে ব্যথা বা অস্বস্তি <br>
+•	অস্বাভাবিক ওজন কমে যাওয়া <br>
+•	ক্ষুধামন্দা <br>
+•	পিত্তবর্ণের মল বা অস্বাভাবিক প্রস্রাব <br>
+•	হলুদ ত্বক বা চোখের সাদা অংশে হলুদভাব (জন্ডিস) <br>
+•	বমি বা হজমের সমস্যা <br>
+প্যাংক্রিয়াটিক ক্যান্সারের কারণগুলির মধ্যে ধূমপান, অ্যালকোহল সেবন, প্রক্রিয়াজাত খাদ্য গ্রহণ, পরিবারে পূর্বের ইতিহাস এবং কিছু জেনেটিক কারণে হতে পারে।
+</p>
 				
 			</div>
         </div>
@@ -278,8 +343,17 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Liver Cancer</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">যকৃত ক্যান্সার </h4>
+				<p class="text-white">যকৃত ক্যান্সার হলো যকৃতের (লিভার) কোষে সৃষ্ট এক ধরনের ক্যান্সার। এটি সাধারণত প্রাথমিকভাবে যকৃতের কোষগুলিতেই শুরু হয়, তবে কখনও কখনও অন্য অঙ্গ থেকে যকৃতের মধ্যে ছড়িয়ে পড়ে (মেটাস্ট্যাটিক ক্যান্সার)। যকৃত ক্যান্সার প্রাথমিকভাবে ধরা পড়ে না, কারণ এটি খুব ধীরে ধীরে বৃদ্ধি পায় এবং এর উপসর্গ সাধারণত প্রাথমিক পর্যায়ে স্পষ্ট হয় না।
+যকৃত ক্যান্সারের কিছু সাধারণ উপসর্গ হলো: <br>
+•	পেটের উপরের ডান দিকে ব্যথা বা অস্বস্তি <br>
+•	পেট ফুলে যাওয়া বা পানির সংক্রমণ (অ্যাসাইটিস) <br>
+•	ওজন কমে যাওয়া এবং ক্ষুধামন্দা <br>
+•	হলুদ ত্বক বা চোখের সাদা অংশ (জন্ডিস) <br>
+•	ক্লান্তি বা দুর্বলতা অনুভব করা <br>
+•	রক্তাল্পতা বা অস্বাভাবিক রক্তপাত <br>
+যকৃত ক্যান্সারের কারণের মধ্যে দীর্ঘস্থায়ী হেপাটাইটিস বি বা সি ভাইরাস সংক্রমণ, অতিরিক্ত মদ্যপান, ধূমপান, অস্বাস্থ্যকর খাদ্যাভ্যাস, বংশগত সমস্যা এবং লিভার সিরোসিস অন্তর্ভুক্ত থাকতে পারে।
+</p>
 				
 			</div>
         </div>
@@ -291,8 +365,17 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Colon Cancer</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">কলন ক্যান্সার </h4>
+				<p class="text-white">কলন ক্যান্সার (Colon Cancer) হলো অন্ত্রের অংশ, বিশেষ করে বড় অন্ত্র (কলন) এর কোষে সৃষ্ট একটি ক্যান্সার। এটি সাধারণত গাঁট বা পলিপ (polyp) থেকে শুরু হয়, যা সময়ের সাথে ক্যান্সারে পরিণত হতে পারে। এটি বেশিরভাগ সময় ধীরে ধীরে বৃদ্ধি পায় এবং প্রাথমিক পর্যায়ে খুব কম উপসর্গ দেখা দেয়। তবে একবার এটি বিস্তার লাভ করলে এটি বিপজ্জনক হতে পারে।
+কলন ক্যান্সারের কিছু সাধারণ উপসর্গ হলো: <br>
+•	পেটের ব্যথা বা অস্বস্তি <br>
+•	পরিবর্তিত মলের আকার বা অভ্যাস (বিশেষ করে দীর্ঘ সময় ধরে ডায়রিয়া বা কোষ্ঠকাঠিন্য) <br>
+•	রক্ত দেখা মলের মধ্যে <br>
+•	অতিরিক্ত গ্যাস, ফোলাভাব বা অস্বস্তি <br>
+•	ওজন হ্রাস বা ক্ষুধামন্দা <br>
+•	ক্লান্তি বা দুর্বলতা <br>
+কলন ক্যান্সারের কারণগুলির মধ্যে বংশগত সমস্যা, অপর্যাপ্ত খাদ্যাভ্যাস (যেমন বেশি চর্বি বা প্রক্রিয়াজাত খাবার খাওয়া), ধূমপান, অ্যালকোহল সেবন, এবং পর্যাপ্ত শারীরিক পরিশ্রম না করা অন্যতম।   
+</p>
 				
 			</div>
         </div>
@@ -304,8 +387,18 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Rectum Cancer</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">রেকটাম ক্যান্সার </h4>
+				<p class="text-white">রেকটাম ক্যান্সার হলো অন্ত্রের শেষ অংশ, অর্থাৎ রেকটামে (মলদ্বারের আশেপাশে) সৃষ্ট এক ধরনের ক্যান্সার। এটি সাধারণত রেকটামের কোষে শুরু হয় এবং ধীরে ধীরে আশেপাশের টিস্যুতে ছড়িয়ে পড়তে পারে। রেকটাম ক্যান্সারও প্রাথমিক পর্যায়ে তেমন কোনো বড় উপসর্গ সৃষ্টি করে না, কিন্তু একবার এটি বিস্তার লাভ করলে এটি গুরুতর হতে পারে।
+রেকটাম ক্যান্সারের কিছু সাধারণ উপসর্গ হলো: <br>
+•	মলের মধ্যে রক্ত দেখা <br>
+•	মলত্যাগের সময় ব্যথা বা অস্বস্তি <br>
+•	মলত্যাগের পরে অপ্রসন্নতা বা অসম্পূর্ণতা অনুভব করা <br>
+•	দীর্ঘ সময় ধরে কোষ্ঠকাঠিন্য বা ডায়রিয়া <br>
+•	পেট ফুলে যাওয়া বা গ্যাস <br>
+•	অস্বাভাবিক ওজন কমে যাওয়া <br>
+•	ক্লান্তি বা দুর্বলতা <br>
+রেকটাম ক্যান্সারের প্রধান কারণগুলির মধ্যে অপর্যাপ্ত খাদ্যাভ্যাস (বিশেষ করে প্রক্রিয়াজাত খাবার বেশি খাওয়া), ধূমপান, অ্যালকোহল সেবন, বংশগত সমস্যা, এবং শারীরিক পরিশ্রমের অভাব থাকতে পারে।
+</p>
 				
 			</div>
         </div>
@@ -317,8 +410,14 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Urological Cancer</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">ইউরোলজিক্যাল ক্যান্সার (প্রোস্টেট ক্যান্সার, ইউরিনারি ব্লাডার ক্যান্সার ইত্যাদি) </h4>
+				<p class="text-white">ইউরোলজিক্যাল ক্যান্সার হলো ইউরিনারি সিস্টেমের অংশগুলির ক্যান্সার, যা পুরুষ এবং মহিলাদের প্রজনন এবং মূত্রতন্ত্রে প্রভাব ফেলতে পারে। এই ক্যান্সারগুলি সাধারণত মূত্রাশয়, প্রোস্টেট, কিডনি বা ইউরেথ্রা (মূত্রনালী) থেকে শুরু হয়।
+প্রধান ইউরোলজিক্যাল ক্যান্সারের মধ্যে রয়েছে:
+•	প্রোস্টেট ক্যান্সার (Prostate Cancer): এটি পুরুষদের মধ্যে সবচেয়ে সাধারণ ক্যান্সার, যা প্রোস্টেট গ্রন্থিতে শুরু হয়। প্রাথমিকভাবে প্রোস্টেট ক্যান্সার তেমন কোনো উপসর্গ সৃষ্টি না করলেও এটি সময়ের সাথে পেঁচিয়ে যাওয়া, পেশী দুর্বলতা, প্রস্রাবের সমস্যার কারণ হতে পারে। <br>
+•	ইউরিনারি ব্লাডার ক্যান্সার (Urinary Bladder Cancer): এটি মূত্রাশয়ে সৃষ্ট ক্যান্সার, যা সাধারণত মূত্রাশয়ের অভ্যন্তরীণ স্তরে শুরু হয়। মূত্রে রক্তের উপস্থিতি, মূত্রত্যাগে ব্যথা বা অস্বস্তি, বারবার মূত্রত্যাগের প্রয়োজনীয়তা ইত্যাদি এর সাধারণ উপসর্গ।
+ইউরোলজিক্যাল ক্যান্সারের অন্যান্য প্রকারগুলির মধ্যে কিডনি ক্যান্সার এবং ইউরেথ্রা ক্যান্সার অন্তর্ভুক্ত থাকতে পারে।
+এই ক্যান্সারের সাধারণ কারণগুলির মধ্যে ধূমপান, অতিরিক্ত অ্যালকোহল সেবন, অপর্যাপ্ত খাদ্যাভ্যাস, দীর্ঘস্থায়ী প্রোস্টেট সমস্যা এবং পরিবারের ইতিহাস থাকতে পারে।
+</p>
 				
 			</div>
         </div>
@@ -330,8 +429,17 @@ include 'svg.php'; ?>
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
-				<h4 class="text-white">Blood Cancer</h4>
-				<p class="text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, maxime velit consequatur dignissimos possimus, ex eveniet quod porro recusandae voluptate iste autem illum quos tempore est repellat nesciunt, id dolorum.</p>
+				<h4 class="text-white">রক্তের ক্যান্সার </h4>
+				<p class="text-white">রক্তের ক্যান্সার, যা হেমাটোলজিক ক্যান্সার হিসেবেও পরিচিত, রক্তের কোষ বা হেমাটোপোইটিক সিস্টেমের অংশে সৃষ্ট ক্যান্সার। এটি সাধারণত রক্ত, হাড়ের মজ্জা (বোন ম্যারো), বা লিম্ফ সিস্টেমে প্রভাব ফেলে এবং এর মধ্যে লিউকেমিয়া, লিম্ফোমা এবং মাইলোমা অন্তর্ভুক্ত।
+প্রধান ধরনের রক্তের ক্যান্সারগুলি হল:
+•	লিউকেমিয়া (Leukemia): এটি রক্তের সাদা কনিকা কোষের অস্বাভাবিক বৃদ্ধি বা সংখ্যা বৃদ্ধির কারণে ঘটে। এটি সাধারণত হাড়ের মজ্জায় শুরু হয় এবং দ্রুত রক্তের মাধ্যমে শরীরের অন্যান্য অংশে ছড়িয়ে পড়তে পারে। এটি সাধারণত বাচ্চাদের এবং বয়স্কদের মধ্যে বেশি দেখা যায়।
+উপসর্গ: শারীরিক দুর্বলতা, ত্বকে রক্তপাত, জ্বর, হাড়ের ব্যথা, অবাঞ্ছিত ওজন কমে যাওয়া। <br>
+•	লিম্ফোমা (Lymphoma): এটি লিম্ফ সিস্টেমের ক্যান্সার, যা লিম্ফ নোডস (রক্তনালীর অংশ) এবং অন্যান্য লিম্ফ্যাটিক অঙ্গগুলিতে সৃষ্ট হয়। দুটি প্রধান ধরনের লিম্ফোমা রয়েছে: হডগকিন লিম্ফোমা এবং নন-হডগকিন লিম্ফোমা। <br>
+উপসর্গ: লিম্ফ নোডসের স্ফীতি, জ্বর, রাতের ঘাম, অস্বাভাবিক ওজন কমে যাওয়া, ত্বকে র‍্যাশ।
+•	মাইলোমা (Myeloma): এটি হাড়ের মজ্জায় (বোন ম্যারো) সৃষ্ট ক্যান্সার, যা সাধারণত প্লাজমা কোষে শুরু হয়। এটি প্রাথমিকভাবে হাড় এবং রক্তে সমস্যা সৃষ্টি করে। <br>
+উপসর্গ: হাড়ে ব্যথা, দুর্বলতা, অনিয়মিত রক্তচাপ, কিডনি সমস্যা।
+রক্তের ক্যান্সারের সাধারণ কারণগুলির মধ্যে বংশগত বা পরিবেশগত কারণ, অতিরিক্ত অ্যালকোহল সেবন, তামাক ব্যবহার, বা কিছু ভাইরাসের সংক্রমণ থাকতে পারে। 
+</p>
 				
 			</div>
         </div>
@@ -341,3 +449,5 @@ include 'svg.php'; ?>
   <div class="hs_margin_30"></div>
 </div>
 <?php include('footer.php'); ?>
+<style>
+
