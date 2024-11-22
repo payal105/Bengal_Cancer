@@ -14,7 +14,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/cancer_consulation.jpg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -28,7 +28,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/cancer_surgery.jpg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -41,7 +41,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/radiotherapy.jpg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -54,7 +54,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/chemotherapy.jpg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -67,7 +67,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/immunotherapy.jpg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -80,7 +80,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/second_opinion.jpg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -93,7 +93,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/mdtb.jpg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -106,7 +106,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/fnac.jpg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -119,7 +119,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/biopsy.webp" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -137,7 +137,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/supportive.webp" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -153,7 +153,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/nutrition.jpeg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -173,7 +173,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/speech.jpg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -188,7 +188,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/physiotherapy.jpeg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -203,7 +203,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/genetic.jpg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -218,7 +218,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/psycology.jpeg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -233,7 +233,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/dental.jpeg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -248,7 +248,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/others.jpeg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -276,7 +276,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/breastcancer.jpeg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -295,7 +295,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/stomachcancer.jpeg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -317,7 +317,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/pancreaticcancer.jpeg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -339,7 +339,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/livercancer.jpeg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -361,7 +361,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/coloncancer.jpeg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -383,7 +383,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/rectum.jpg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -406,7 +406,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/prostate.jpg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">
@@ -425,7 +425,7 @@ include 'svg.php'; ?>
 	<div class="row" data-aos="fade-up"
       data-aos-anchor-placement="top-bottom" data-aos-duration="1500" style="background: #38b6ff; border-radius: 10px; padding: 25px; margin-bottom: 15px">
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/service/blood.jpg" alt="">
         </div>
         <div class="col-xl-10 col-lg-10 col-md-8 col-sm-12">
 			<div class="portfolio_doctor_details">

@@ -83,7 +83,7 @@ include 'svg.php';
           </div>
         </div>
         <div class="col-xl-2 col-lg-2 col-md-4 col-sm-12">
-          <img class="img-fluid" src="images/team/team_member8.png" alt="">
+          <img class="img-fluid" src="images/team/kazi_doc.jpeg" alt="">
         </div>
       </div>
     </div>

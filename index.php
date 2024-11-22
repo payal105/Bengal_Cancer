@@ -8,7 +8,7 @@ include 'svg.php';
     <div class="owl-carousel owl-theme">
         <div class="item">
             <div class="hlc_slider_details">
-                <img class="animated fadeInDown" src="images/slider/slider1.jpg" alt="...">
+                <img class="animated fadeInDown" src="images/slider/slider_new1.jpg" alt="..." height="600px">
                 <div class="hlc_slider_details_text">
                     <div class="container">
                         <div class="row">
@@ -24,7 +24,7 @@ include 'svg.php';
         </div>
         <div class="item">
             <div class="hlc_slider_details">
-                <img class="animated fadeInDown" src="images/slider/slider2.jpg" alt="...">
+                <img class="animated fadeInDown" src="images/slider/slider_new2.jpg" alt="..." height="600px">
                 <div class="hlc_slider_details_text">
                     <div class="container">
                         <div class="row">
